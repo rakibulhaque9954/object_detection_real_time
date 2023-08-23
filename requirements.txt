@@ -8,7 +8,7 @@ defusedxml==0.7.1
 exceptiongroup==1.1.1
 executing==1.2.0
 fastjsonschema==2.17.1
-Flask==2.3.2
+Flask==2.2.5
 Flask-SocketIO==5.3.5
 fqdn==1.5.1
 h11==0.14.0
