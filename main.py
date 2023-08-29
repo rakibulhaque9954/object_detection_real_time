@@ -26,4 +26,5 @@ def video_src():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
+    # still a few things not working, need lots more debugging web image extraction and more functionality
 
